@@ -1,2 +1,4 @@
 # Finance-PowerBi-Report
-This Power BI Finance Report offers a comprehensive analysis of income, savings, expenses, targets, and the relationship between expenses and savings from 2021 to 2024.
+Report Image (jpeg)
+![Screenshot (10)](https://github.com/Arsalkhan-analyst/Finance-PowerBi-Report/assets/166115025/a1ab7a73-1b24-4c32-86d1-6cf74bec5a0a)
+
